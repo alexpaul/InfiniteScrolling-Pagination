@@ -5,3 +5,4 @@ Infinite scrolling in a table view in iOS.
 
 * [Example - uses the Prefetching API](https://github.com/alexpaul/InfiniteScrolling/tree/master/ModeratorsExplorerer)
 * [Example - uses scrollViewDidScroll delegate](https://github.com/alexpaul/InfiniteScrolling/tree/master/InfiniteScrollingExample)
+* [Example - uses scrollViewDidScroll delegate](https://github.com/alexpaul/InfiniteScrolling/tree/master/StarWars)
