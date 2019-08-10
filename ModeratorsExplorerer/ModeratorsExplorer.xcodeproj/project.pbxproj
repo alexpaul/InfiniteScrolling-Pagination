@@ -148,8 +148,8 @@
 		9AEDE1362044081B00FA6201 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				9AA0425B203C887D00227AEA /* ModeratorsListViewController.swift */,
 				9AA04262203C887E00227AEA /* ModeratorsSearchViewController.swift */,
+				9AA0425B203C887D00227AEA /* ModeratorsListViewController.swift */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
