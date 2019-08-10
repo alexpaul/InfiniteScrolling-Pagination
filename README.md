@@ -1,6 +1,7 @@
 # InfiniteScrolling
 Infinite scrolling in a table view in iOS. 
 
-## Readings
+## There are a few examples in this repo
 
-[Ray Wenderlich - UITableView Infinite Scrolling Tutorial](https://www.raywenderlich.com/5786-uitableview-infinite-scrolling-tutorial)
+* [Example - uses the Prefetching API](https://github.com/alexpaul/InfiniteScrolling/tree/master/ModeratorsExplorerer)
+* [Example - uses scrollViewDidScroll delegate](https://github.com/alexpaul/InfiniteScrolling/tree/master/InfiniteScrollingExample)
