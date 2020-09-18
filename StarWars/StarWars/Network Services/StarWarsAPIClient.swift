@@ -13,7 +13,7 @@ final class StarWarsAPIClient {
                            resource: Resource, 
                            page: String,
                            completion: @escaping (Result<Resource, NetworkError>, String?) -> Void) {
-    let baseURL = "https://swapi.co/api/"
+    let baseURL = "https://swapi.dev/api/"
     let endpointURL = "\(baseURL)\(method)?page=\(page)"
     guard let url = URL(string: endpointURL) else {
       completion(.failure(NetworkError.badURL), nil)
